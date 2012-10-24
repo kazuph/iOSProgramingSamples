@@ -1,9 +1,4 @@
 iOSプログラミングのCodeをひたすら上げていく
 ===
-- 簡単なサンプル１
-- 簡単なサンプル2
-- 簡単なサンプル3
-- 簡単なサンプル4
-- 簡単なサンプル5
-- 簡単なサンプル6
-- 簡単なサンプル7
+- TableViewALAssetsLibrary(ALAssetsLibraryを使った簡易アルバム表示)
+- TestBlocksKit(BlocksKitを導入したAlert表示)
